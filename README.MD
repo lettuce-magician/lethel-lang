@@ -1,6 +1,7 @@
 # lethel: funny stack-oriented esolang
 
 basically manipulate things on a stack and etc and embedding stuff is real easy
+
 the cons? its a pain on the ass to code on it
 (reason because the name is literally my internet nickname letiul + hell)
 
@@ -31,5 +32,7 @@ error: oop sucks lmao
 ```
 
 this has pratically no use cases but it's embeddable easily
+
 licesed under MIT licensed, basically the code is free to use but you dont own it
+
 if you wanna make a suggestion, show me something you made with this language or found a issue (most of the cases) contact me on funny blue chat app: Vegetable#3256

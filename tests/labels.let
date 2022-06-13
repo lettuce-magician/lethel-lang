@@ -1,0 +1,13 @@
+label my_phone
+    push Number_Is_
+    first
+    concat -2
+    pos 1
+    print
+    clear
+done
+
+push 911
+call my_phone
+push 69420
+call my_phone

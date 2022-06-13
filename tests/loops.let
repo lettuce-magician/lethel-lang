@@ -1,0 +1,7 @@
+push 4
+push 6
+bit =
+cjump 1, 5 ; jumps to line 1 if true, else to line 5
+push I_Will_not_give_up
+print
+jump 1

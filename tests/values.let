@@ -1,0 +1,9 @@
+value pi, 3.14159265359
+
+push Pi
+pushval _ ; equivalent to space
+push is
+pushval _
+pushval pi ; pushes pi to it
+concat 5
+print

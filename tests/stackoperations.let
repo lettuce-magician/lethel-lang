@@ -1,0 +1,15 @@
+push 2
+print
+clear
+print
+;--------------;
+push 2
+push 4
+push 6
+first
+print
+last
+print
+pop
+first
+print
